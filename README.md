@@ -1,6 +1,3 @@
-Sure! Below is a sample `README.md` file tailored for your Next.js project using `pnpm`. You can customize it further based on your project's specific details.
-
----
 
 # Next.js Project with pnpm
 
@@ -139,6 +136,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Next.js](https://nextjs.org/) for the awesome framework.
 - [pnpm](https://pnpm.io/) for making dependency management a breeze.
 
----
-
-Feel free to customize this `README.md` to better suit your project. Let me know if you need further assistance! 😊
